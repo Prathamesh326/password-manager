@@ -1,0 +1,5 @@
+abcd | abcd@gmail.com | abcd1234
+xyz | xyz@gmail.com | xyz113
+ frnklw | xyz@gmail.com | wlrfn
+Amazon | xyz@gmail.com | Amazon123
+amazon lite | xyz@gmail.com | 12345
